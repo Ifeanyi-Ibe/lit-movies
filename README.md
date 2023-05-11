@@ -7,6 +7,9 @@ Lit Movies, as the name implies, is a movie application. The app provides a comp
 In the project directory, you can run:
 
 npm start
+ 
+## Live Website
 
+Visit the live website: https://lit-movies.onrender.com/
 
 
