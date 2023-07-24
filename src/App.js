@@ -54,7 +54,7 @@ function App() {
           <Sidebar />
         </section>
       )}
-      <main className="sm:grid sm:grid-cols-8 sm:gap-1 sm:mx-12">
+      <main className="sm:grid sm:grid-cols-8 sm:gap-1 sm:mx-12 sm:my-24">
         <section className="hidden sm:block">
           <Sidebar />
         </section>
